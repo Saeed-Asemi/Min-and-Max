@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\bin\Debug\Min and max between three numbers.exe.config
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\bin\Debug\Min and max between three numbers.exe
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\bin\Debug\Min and max between three numbers.pdb
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\obj\Debug\Min and max between three numbers.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\obj\Debug\Min and max between three numbers.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\obj\Debug\Min and max between three numbers.exe
+D:\Uni\Programming\C#\Min and max between three numbers\Min and max between three numbers\obj\Debug\Min and max between three numbers.pdb
